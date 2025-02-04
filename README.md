@@ -1,0 +1,2 @@
+# openstack_jumpserver_manager
+基于OpenStack的公司云平台建设与管理方案
